@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Alex",
+    "MiddleName": "dsfg",
+    "LastName": "sdfg",
+    "Sex": "Male",
+    "Departament": "asg",
+    "Faculty": "sdf",
+    "DateOfBirth": "13 декабря 2022 г."
+  },
+  {
+    "Name": "12345",
+    "MiddleName": "3wt",
+    "LastName": "asdg",
+    "Sex": "Female",
+    "Departament": "asdf",
+    "Faculty": "sadf",
+    "DateOfBirth": "13 декабря 2022 г."
+  }
+]
